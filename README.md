@@ -1,1 +1,1 @@
-# hw5-Day-Planning
+# hw5-day-planning
